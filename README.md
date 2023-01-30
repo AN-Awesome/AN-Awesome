@@ -43,7 +43,4 @@
 <img src="https://img.shields.io/badge/Premiere_Pro-3DDC84?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Cinema4D-3DDC84?style=flat-square&logo=Cinema%204D&logoColor=FFFFFF&color=011A6A"/>&nbsp;
  
-<img src="https://img.shields.io/badge/Cinema4D-3DDC84?style=flat-square&logo=Cinema%204D&logoColor=FFFFFF&color=011A6A"/>&nbsp;
-
-
 </div>

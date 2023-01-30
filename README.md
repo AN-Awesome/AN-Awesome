@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=FFFFFF&color=3776AB"/>&nbsp;
 <img src="https://img.shields.io/badge/BootStrap-3DDC84?style=flat-square&logo=Bootstrap&logoColor=FFFFFF&color=7952B3"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
- <img src="https://img.shields.io/badge/Spring__Boot-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
+ <img src="https://img.shields.io/badge/Spring_Boot-3DDC84?style=flat-square&logo=Spring%20Boot&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
  <img src="https://img.shields.io/badge/GitHub-3DDC84?style=flat-square&logo=GitHub&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-3DDC84?style=flat-square&logo=MongoDB&logoColor=FFFFFF&color=47A248"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;

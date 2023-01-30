@@ -1,5 +1,5 @@
 <div align="center">
- 
+
 # ✨**AN AWESOME**✨
 <img src="https://img.shields.io/badge/awesome__devnet@outlook.com-3DDC84?label=E-MAIL&style=flat-square&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/>&nbsp;<a href="https://awslab.tistory.com" target="_blank"><img src="https://img.shields.io/badge/https://awslab.tistory.com-3DDC84?label=BLOG&style=flat-square&logo=Tistory&logoColor=WHITE&color=8D6748"/>
 
@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/PHP-3DDC84?style=flat-square&logo=PHP&logoColor=FFFFFF&color=777BB4"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3DDC84?style=flat-square&logo=TypeScript&logoColor=FFFFFF&color=3178C6"/>&nbsp;
 <img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=React&logoColor=FFFFFF&color=61DAFB"/>&nbsp;
+<img src="https://img.shields.io/badge/Redux-3DDC84?style=flat-square&logo=Redux&logoColor=FFFFFF&color=764ABC"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=FFFFFF&color=3776AB"/>&nbsp;
 <img src="https://img.shields.io/badge/BootStrap-3DDC84?style=flat-square&logo=Bootstrap&logoColor=FFFFFF&color=7952B3"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-3DDC84?style=flat-square&logo=Spring&logoColor=FFFFFF&color=6DB33F"/>&nbsp;
@@ -30,17 +31,26 @@
 <img src="https://img.shields.io/badge/MySQL-3DDC84?style=flat-square&logo=MySQL&logoColor=FFFFFF&color=4479A1"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-3DDC84?style=flat-square&logo=Linux&logoColor=000000&color=FCC624"/>&nbsp;
 <img src="https://img.shields.io/badge/Machintosh-3DDC84?style=flat-square&logo=macOS&logoColor=FFFFFF&color=000000"/>&nbsp;
- 
+
  ## Tools
- 
+
 <img src="https://img.shields.io/badge/GitHub-3DDC84?style=flat-square&logo=GitHub&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio-3DDC84?style=flat-square&logo=Visual%20Studio&logoColor=FFFFFF&color=5C2D91"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-3DDC84?style=flat-square&logo=Visual%20Studio%20Code&logoColor=FFFFFF&color=007ACC"/>&nbsp;
+<img src="https://img.shields.io/badge/CodePen-3DDC84?style=flat-square&logo=CodePen&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Eclipse-3DDC84?style=flat-square&logo=Eclipse%20IDE&logoColor=FFFFFF&color=2C2255"/>&nbsp;
+<img src="https://img.shields.io/badge/IntelliJ-3DDC84?style=flat-square&logo=Intellij%20IDEA&logoColor=FFFFFF&color=000000"/>&nbsp;
+<img src="https://img.shields.io/badge/Xcode-3DDC84?style=flat-square&logo=Xcode&logoColor=FFFFFF&color=147EFB"/>&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-3DDC84?style=flat-square&logo=Jupyter&logoColor=FFFFFF&color=F37626"/>&nbsp;
+<img src="https://img.shields.io/badge/CodeSandBox-3DDC84?style=flat-square&logo=CodeSandBox&logoColor=FFFFFF&color=151515"/>&nbsp;
 <img src="https://img.shields.io/badge/Slack-3DDC84?style=flat-square&logo=Slack&color=4A154B"/>&nbsp;
+<img src="https://img.shields.io/badge/Quip-3DDC84?style=flat-square&logo=Quip&logoColor=FFFFFF&color=F27557"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&color=000000"/>&nbsp;
 <img src="https://img.shields.io/badge/Photoshop-3DDC84?style=flat-square&logo=Adobe%20Photoshop&logoColor=FFFFFF&color=31A8FF"/>&nbsp;
 <img src="https://img.shields.io/badge/After_Effects-3DDC84?style=flat-square&logo=Adobe%20After%20Effects&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Premiere_Pro-3DDC84?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Cinema4D-3DDC84?style=flat-square&logo=Cinema%204D&logoColor=FFFFFF&color=011A6A"/>&nbsp;
+
+![](https://github-readme-stats.vercel.app/api?username=AN-Awesome&show_icons=true&theme=tokyonight)
  
 </div>

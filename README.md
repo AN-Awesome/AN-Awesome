@@ -3,6 +3,11 @@
 # ✨**AN AWESOME**✨
 <img src="https://img.shields.io/badge/awesome__devnet@outlook.com-3DDC84?label=E-MAIL&style=flat-square&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/>&nbsp;<a href="https://awslab.tistory.com" target="_blank"><img src="https://img.shields.io/badge/https://awslab.tistory.com-3DDC84?label=BLOG&style=flat-square&logo=Tistory&logoColor=WHITE&color=8D6748"/>
 
+<img src="https://img.shields.io/badge/eat();-3DDC84?style=for-the-badge&color=21C25E"/>&nbsp;
+<img src="https://img.shields.io/badge/sleep();-3DDC84?style=for-the-badge&color=1A4CA1"/>&nbsp;
+<img src="https://img.shields.io/badge/code();-3DDC84?style=for-the-badge&color=FFCD11"/>&nbsp;
+<img src="https://img.shields.io/badge/repeat();-3DDC84?style=for-the-badge&color=FF4F8B"/>&nbsp;
+
 
 ## Tech Stack
 
@@ -50,7 +55,7 @@
 <img src="https://img.shields.io/badge/After_Effects-3DDC84?style=flat-square&logo=Adobe%20After%20Effects&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Premiere_Pro-3DDC84?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=FFFFFF&color=9999FF"/>&nbsp;
 <img src="https://img.shields.io/badge/Cinema4D-3DDC84?style=flat-square&logo=Cinema%204D&logoColor=FFFFFF&color=011A6A"/>&nbsp;
-
+<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=AN-Awesome&show_icons=true&theme=tokyonight)
  
 </div>

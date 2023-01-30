@@ -1,7 +1,7 @@
 ## **AN AWESOME**
 
-<img src="https://img.shields.io/badge/awesome__devnet@outlook.com-3DDC84?label=E-MAIL&style=flat-square&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/>
-<img src="https://img.shields.io/badge/https://awslab.tistory.com-3DDC84?label=BLOG&style=flat-square&logo=Tistory&logoColor=WHITE&color=8D6748"/>
+<img src="https://img.shields.io/badge/awesome__devnet@outlook.com-3DDC84?label=E-MAIL&style=for-the-badge&logo=Microsoft%20Outlook&logoColor=WHITE&color=0078D4"/> &nbsp;
+<img src="https://img.shields.io/badge/https://awslab.tistory.com-3DDC84?label=BLOG&style=for-the-badge&logo=Tistory&logoColor=WHITE&color=8D6748"/>
 
 ---
 ### **Tech Stack**
